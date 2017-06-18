@@ -32,5 +32,4 @@ class testController extends Controller
        return "hi".$nombre;
     }
 
-
 }
