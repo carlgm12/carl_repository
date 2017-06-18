@@ -27,4 +27,10 @@ class testController extends Controller
        return "hi".$nombre;
     }
 
+    public function pruebagit3($nombre)
+    {
+       return "hi".$nombre;
+    }
+
+
 }
